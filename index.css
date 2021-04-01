@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(27 21 84 / 95%);
+    font-family: system-ui;
+    color: white;
+    /* font-size: 4vh; */
+}
+.main{
+    margin:1vh auto;
+    width: 100%;
+}
+.fill{
+    margin: 1vh 0vw;
+}
+.fill label{
+    margin: 1vh 0vw;
+}
+.fill input{
+    width: 99%;
+}
+.btn{
+    background-color: green;
+    border: transparent;
+    color: white;
+    margin: 1vh 0vw;
+}
+table
+{
+    /* border: 2px solid black; */
+    width: 50vw;
+}
+table td{
+    text-align: left;
+}
